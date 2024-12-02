@@ -1,2 +1,4 @@
 Hello, I am a student of IIT Kharagpur.
 My name is Moulindu Kundu
+
+My department is Electrical Engineering.
